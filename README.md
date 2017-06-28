@@ -3,6 +3,7 @@ Aqui estão as partes divididas de Front e Back-End
 #### Back-end responsável Guilherme Magna
 - Reestruturar o sistema do painel onde houver erros ( doing )
 - Criar o album de fotos com crud delete, update, insert e select  (done)
+- Crud Videos ( Done )
 - Criar crud cadastro de novos usuários 
 - Criar um sistema de email marketink 
 - Criar form de contato no Front-end do site
